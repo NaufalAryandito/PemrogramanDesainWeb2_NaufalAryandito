@@ -4,7 +4,7 @@
 ## Kelas : TI 2D
 
 ### style.css
-![alt text](code.png)
+<img width="1048" height="7208" alt="code" src="https://github.com/user-attachments/assets/23c3e034-4477-4d2b-b84b-1b0b6f289ba5" />
 
 ## Struktur File
 ``` java
