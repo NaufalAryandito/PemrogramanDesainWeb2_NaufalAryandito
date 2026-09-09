@@ -2,6 +2,7 @@ Userflow peminjaman buku [Petugas Login] -> [Dashboard] -> [Pilih menu "Peminjam
 
 Userflow pengembalian buku [Petugas Login] -> [Dashboard] -> [Pilih menu "Pengembalian"] -> [Cari transaksi aktif (anggota/buku)] -> [Tandai "Dikembalikan"] -> [Stok buku bertambah 1] -> [Kembali ke Dashboard]
 
+
 Wireframe halaman login
 +--------------------------------------+
 |              SIMPUS-Mini             |
@@ -17,6 +18,7 @@ Wireframe halaman login
 |   Belum punya akun? Daftar di sini  |
 +--------------------------------------+
 
+
 Wireframe dashboard petugas
 +-----------------------------------------------------+
 | SIMPUS-Mini      Beranda | Buku | Anggota | Peminjaman | (Nama Petugas) Logout |
@@ -31,6 +33,7 @@ Wireframe dashboard petugas
 |  Anggota | Buku | Tgl Pinjam | Status                  |
 +-----------------------------------------------------+
 
+
 Wireframe form peminjaman
 +--------------------------------------+
 |  Form Peminjaman Buku                |
@@ -41,6 +44,7 @@ Wireframe form peminjaman
 |                                      |
 |          [  Simpan Peminjaman  ]    |
 +--------------------------------------+
+
 
 Wireframe form pengembalian
 +--------------------------------------+
@@ -61,6 +65,7 @@ Wireframe riwayat peminjaman per anggota
 |  Laskar Pelangi   | 01/07    | 10/07   | Selesai     |
 |  Bumi Manusia      | 15/07    | -       | Dipinjam    |
 +--------------------------------------+
+
 
 Wireframe registrasi anggota baru
 +-----------------------------------------------------------------------+
